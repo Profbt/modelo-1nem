@@ -130,6 +130,8 @@ h1 {
 .icon {
   width: 60%;
   height: 60%;
+  justify-content: center;
+  margin: auto;
 }
 
 
