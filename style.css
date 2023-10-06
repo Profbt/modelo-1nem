@@ -69,7 +69,7 @@ h1 {
 }
 
 .grid-pai {
-  display: grid;
+  display: flex;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-column-gap: 0px;
