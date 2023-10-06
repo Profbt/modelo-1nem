@@ -88,6 +88,7 @@ h1 {
 }
 
 .grid-filho2 {
+  width: 100vh;
   justify-content: space-around;
   align-items: center;
   background-color: red;
@@ -95,6 +96,7 @@ h1 {
 }
 
 .grid-filho3 {
+  width: 100vh;
   justify-content: space-around;
   align-items: center;
   background-color: yellow;
@@ -102,6 +104,7 @@ h1 {
 }
 
 .grid-filho4 {
+  width: 100vh;
   justify-content: space-around;
   align-items: center;
   background-color: yellowgreen;
@@ -109,6 +112,7 @@ h1 {
 }
 
 .grid-filho5 {
+  width: 100vh;
   justify-content: space-around;
   align-items: center;
   background-color: purple;
@@ -116,6 +120,7 @@ h1 {
 }
 
 .grid-filho6 {
+  width: 100vh;
   justify-content: space-around;
   align-items: center;
   background-color: blue;
