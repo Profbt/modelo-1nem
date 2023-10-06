@@ -80,6 +80,7 @@ h1 {
   }
 
     .grid-filho1 {
+    width: 100vh;
     background-color: orange;
     
   }
