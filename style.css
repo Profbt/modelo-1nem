@@ -70,7 +70,6 @@ h1 {
 
 .grid-pai {
   width: 100vh;
-  height: 100vh;
   display:flex;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
