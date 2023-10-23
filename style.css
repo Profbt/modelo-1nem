@@ -79,7 +79,7 @@ h1 {
   align-items: center;
 }
 
-.grid-filho1 {
+.grid-filho* {
   
   justify-content: center;
   align-items: center;
@@ -88,47 +88,3 @@ h1 {
 
 }
 
-grid-filho2 {
-  
-  justify-content: center;
-  align-items: center;
-  padding: 20px;
-  background-color: rgb(255, 0, 0);
-
-}
-
-grid-filho3 {
-  
-  justify-content: center;
-  align-items: center;
-  padding: 20px;
-  background-color: rgb(255, 0, 0);
-
-}
-
-grid-filho4 {
-  
-  justify-content: center;
-  align-items: center;
-  padding: 20px;
-  background-color: rgb(255, 0, 0);
-
-}
-
-grid-filho5 {
-  
-  justify-content: center;
-  align-items: center;
-  padding: 20px;
-  background-color: rgb(255, 0, 0);
-
-}
-
-grid-filho6 {
-  
-  justify-content: center;
-  align-items: center;
-  padding: 20px;
-  background-color: rgb(255, 0, 0);
-
-}
